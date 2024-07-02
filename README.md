@@ -53,7 +53,7 @@ public static final String BANNER = """
 +---------------------------------------------------------+
 |                       SpamCheck                         |
 |                       =========                         |
-|               Author: Prashant Bhandari                 |
+|               Author: Potharaveni Aashreetha                 |
 +---------------------------------------------------------+
 | This Program is designed to check whether a given list  |
 | of IP addresses belongs to known spammers or legitimate |
